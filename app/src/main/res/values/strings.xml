@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentCounter</string>
+    <string name="txt_students">HealthPoints</string>
+    <string name="btn_students">Добавить HP</string>
+</resources>
